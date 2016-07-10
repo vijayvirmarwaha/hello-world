@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+just another repository Editing the file to check GIT
